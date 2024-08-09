@@ -1,0 +1,8 @@
+click
+future
+numpy
+pandas
+pybedtools
+pysam
+swalign
+tqdm

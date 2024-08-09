@@ -1,0 +1,4 @@
+[console_scripts]
+svcaller = svcaller.cli.base:base
+sveffect = svcaller.cli.base:sveffect
+
